@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **NEXT JS**
 
-- 👨‍💻 All of my projects are available at [react-portfolio-ivory-five.vercel.app](react-portfolio-ivory-five.vercel.app)
+- 👨‍💻 All of my projects are available at [react-portfolio-ivory-five.vercel.app](https://react-portfolio-ivory-five.vercel.app)
 
 - 💬 Ask me about **Java, React**
 
