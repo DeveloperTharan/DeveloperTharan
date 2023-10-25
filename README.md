@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning **NEXT JS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-gilt-omega-54.vercel.app/](https://portfolio-gilt-omega-54.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-gilt-omega-54.vercel.app/](react-portfolio-ivory-five.vercel.app)
 
 - 💬 Ask me about **Java, React**
 
 - 📫 How to reach me **tharan130723@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am Serious in Study's**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
