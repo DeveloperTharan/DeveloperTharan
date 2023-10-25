@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img aligh='right' alt='img' width='400' src='https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif' />
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NEXT JS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-gilt-omega-54.vercel.app/](https://portfolio-gilt-omega-54.vercel.app/)
 
