@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dharanitharan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img aligh='right' alt='img' width='400' src='https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif' />
+<img aligh='right' alt='img' width='400' src='[https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif](https://imgs.search.brave.com/3n8dZUtS2_gQY5c542S9L_V6Jf_CkBuhmEpbROh5JeU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtcHJvZ3JhbW1l/ci1ndXktY29kaW5n/LTc5MGEwYnM4ZTh0/aHBpc2cuZ2lm.gif)' />
 
 # 💫 About Me:
 ✋Hi, I am Dharanitharan, Software Developer<br><br>👨‍💻 All of my projects are available at react-portfolio-ivory-five.vercel.app<br><br>💬 Ask me about Java, React<br><br>📫 How to reach me tharan130723@gmail.com<br><br>⚡ Fun fact I think I am Serious in Study's
