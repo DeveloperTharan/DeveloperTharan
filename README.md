@@ -27,7 +27,7 @@
 <h3 align="left">Glade to see you here!</h3>
 
 ###
-<p align="left">I am a full-stack software engineer and Trader. I love programming, finance and traveling.</p>
+<p align="left">I am a full-stack software developer and Trader. I love programming, finance and traveling.</p>
 
 <p align="left">As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.</p>
 
