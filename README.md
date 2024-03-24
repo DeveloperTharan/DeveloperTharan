@@ -1,7 +1,7 @@
 ### <h1 align="left">&gt; Hi there, I'm <a href="https://dt-folio.vercel.app" target="_blank">Dharanitharan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
 
 <div align="left">
-  <a href="https://dt-folio.vercel.app/" target="_blank">
+  <a href="https://thxran.in" target="_blank">
      <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://www.linkedin.com/in/dharanitharan-p/" target="_blank">
